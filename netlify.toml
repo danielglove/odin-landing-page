@@ -1,1 +1,1 @@
-[build]command = "CI= npm run build"publish = "dist"
+# [build]command = "CI= npm run build"publish = "dist"
